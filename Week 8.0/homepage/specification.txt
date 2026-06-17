@@ -1,0 +1,24 @@
+HTML Tags Used:
+1. <!DOCTYPE html> - Defines the document type as HTML5.
+2. <html> - Root element of the webpage.
+3. <head> - Contains metadata, links, styles, and scripts.
+4. <meta> - Provides metadata such as viewport settings.
+5. <link> - Links external CSS files (Bootstrap and custom styles).
+6. <script> - Includes JavaScript code (Bootstrap bundle and custom function).
+7. <title> - Defines the title of the webpage shown in the browser tab.
+8. <body> - Contains the visible page content.
+9. <div> - Used to group and structure content sections.
+10. <h1>, <h2>, <h3>, <p>, <a>, <img>, <input>, <button> - Text, links, image, form input, and interactive button.
+
+CSS Properties Used:
+1. background-color - Applied to body and container to give a dark theme.
+2. color - Sets text color to white for contrast.
+3. padding - Adds spacing inside container.
+4. border-radius - Gives rounded corners to the container.
+5. filter - Applies grayscale effect to the image.
+
+JavaScript Usage:
+I used JavaScript to add interactivity by defining a simple function that displays an alert message when the button is clicked.
+
+Bootstrap Usage:
+I used Bootstrap for responsive design, grid layout, predefined classes (like container, text-center, btn, and img-fluid), and built-in styling for a modern look.
